@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="MeetingTune logo" />
+</p>
+
 # MeetingTune
 
 **MeetingTune** is a desktop app that plays your chosen tune before meetings and shows a live countdown so you're never caught off guard.

@@ -21,6 +21,14 @@
 ## Installation
 
 ### macOS
+
+> **Prerequisites — sync your calendar first**
+> MeetingTune reads events from the macOS Calendar app. Before launching, make sure the calendar account you want to use (e.g. Microsoft 365, Google, Exchange) is signed in and syncing in the macOS Calendar app:
+> 1. Open **Calendar** → **Settings** (⌘,) → **Accounts**.
+> 2. Click **+** and sign in to your calendar account if it isn't listed.
+> 3. Ensure the account is enabled and its calendars are checked in the Calendar sidebar.
+> 4. Wait for events to sync before launching MeetingTune.
+
 1. Download the `.dmg` for your architecture above.
 2. Open the `.dmg` and drag **MeetingTune** to your Applications folder.
 3. Launch MeetingTune — grant **Calendar** access when prompted on first launch.

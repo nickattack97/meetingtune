@@ -25,6 +25,12 @@
 2. Open the `.dmg` and drag **MeetingTune** to your Applications folder.
 3. Launch MeetingTune — grant **Calendar** access when prompted on first launch.
 
+> **"MeetingTune is damaged and can't be opened" ?**
+> This is a macOS Gatekeeper restriction, not actual damage — it appears because the app is not yet notarised with an Apple Developer certificate. Run this one-time command in Terminal after dragging the app to Applications, then relaunch normally:
+> ```bash
+> xattr -cr /Applications/MeetingTune.app
+> ```
+
 ### Windows
 1. Download `MeetingTune-Setup-1.0.0-x64.exe` above.
 2. Run the installer and follow the on-screen instructions.

@@ -4,7 +4,11 @@
 
 # MeetingTune
 
-**MeetingTune** is a desktop app that plays your chosen tune before meetings and shows a live countdown so you're never caught off guard.
+**MeetingTune** is a desktop app that plays your chosen tune before meetings and shows a live countdown so you're never caught off guard. The tune isn't just a reminder — it's a vibe shift. That last minute before a meeting doesn't have to feel like dread; MeetingTune fills it with a track that gets your head in the game so you show up energised and ready.
+
+<p align="center">
+  <img src="assets/menubar-preview.png" width="480" alt="MeetingTune live countdown in the macOS menu bar" />
+</p>
 
 ## Download
 

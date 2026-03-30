@@ -1,0 +1,9 @@
+# Release binaries — upload these as GitHub Release assets, NOT into git
+*.dmg
+*.exe
+*.msi
+*.pkg
+*.zip
+*.AppImage
+*.deb
+*.rpm
